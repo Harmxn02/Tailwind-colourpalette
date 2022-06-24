@@ -18,10 +18,14 @@ This sets the background colour to <span style="color:#ef4444">#ef4444</span>
 This sets the background colour to <span style="color:#1d4ed8">#1d4ed8</span>
 
 ## Here are all colours listed:
-`GitHub doesn't show colours, but if you clone the repo, and preview the markdown file, you can see all colours`
 
 You can also find the entire colour palette on [Tailwind CSS's website](https://tailwindcss.com/docs/customizing-colors). Click the URL to be redirected there.
 
+![](screenshot.png)
+
+
+<!-- 
+`GitHub doesn't show colours, but if you clone the repo, and preview the markdown file, you can see all colours`
 <span style="background-color: white; color: black; font-weight: bold;">Slate</span>
 
 <span style="color: #f8fafc">--slate-50</span>
@@ -525,4 +529,4 @@ You can also find the entire colour palette on [Tailwind CSS's website](https://
 
 <span style="color: #9f1239">--rose-800</span>
 
-<span style="color: #881337">--rose-900</span>
+<span style="color: #881337">--rose-900</span> -->
