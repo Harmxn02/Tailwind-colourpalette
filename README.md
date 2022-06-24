@@ -18,6 +18,7 @@ This sets the background colour to <span style="color:#ef4444">#ef4444</span>
 This sets the background colour to <span style="color:#1d4ed8">#1d4ed8</span>
 
 ## Here are all colours listed:
+`GitHub doesn't show colours, but if you clone the repo, and preview the markdown file, you can see all colours`
 
 <span style="background-color: white; color: black; font-weight: bold;">Slate</span>
 
